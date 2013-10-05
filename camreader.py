@@ -3,8 +3,7 @@
 import argparse
 import requests
 import tempfile
-import numpy as np
-from scipy import misc, ndimage
+from scipy import misc
 from matplotlib import pyplot
 from transform import regularize
 
